@@ -5,7 +5,7 @@
 <body>
 <?php phpinfo(); ?>
 <script>
-window.alert(5 + 6);
+window.alert("Pat your are a chump");
 </script>
 </body>
 </html>
