@@ -3,10 +3,11 @@
 <title>PHP Test</title>
 </head>
 <body>
-<?php phpinfo(); ?>
+//<?php phpinfo(); ?>
 <script>
 window.alert("Pat your are a chump");
 </script>
+Hello
 </body>
 </html>
  
